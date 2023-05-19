@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1215.0, 494.0, 744.0, 763.0 ],
+		"rect" : [ 1215.0, 494.0, 1135.0, 783.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -120,7 +120,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 112.0, 52.0, 76.0, 47.0 ],
+					"patching_rect" : [ 548.0, 46.5, 76.0, 47.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 114.0, 41.0, 69.0, 47.0 ],
