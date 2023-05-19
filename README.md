@@ -8,3 +8,5 @@
  2 - Input Gain (0 - 1, scaled from 0 - 10 with an exponential curve of 0.125)
  3 - Preset Interpolation (0 - 32, Float for smooth interpolation or Int for stepped)
  4 - Output Gain (0 - 1, scaled from 0 - 10 with an exponential curve of 0.125)
+
+The MC version takes one arguments, which is the number of channels.
